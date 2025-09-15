@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>hide</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
-    <ru>f8e74972ad6940d86bb111c432485773ad800bdcb297515123525463c5af288e</ru>
-    <en>7ac7c6bf22cdac0ef94fafe9788676f16b45d784f3cb967bb28205ca9d93c63a</en>
+    <ru>6ca5c639b96eb40ddc58cdc107624b5ffb1138b4634c30193e553ef5e5d6dfb2</ru>
+    <en>a0519e65afeb861fb1b49181f98fcd5bf2906bc6b5cf34af19604180b771aaf1</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
