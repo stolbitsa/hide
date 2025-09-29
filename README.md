@@ -29,7 +29,7 @@
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-# Octave and Unison - harmonic
+# Octave and Unison - harmonic version
 
 ![](https://github.com/user-attachments/assets/1ee6c8a9-9a04-4555-88ea-b26cccc427d9)
 
