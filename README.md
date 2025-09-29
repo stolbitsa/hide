@@ -31,6 +31,8 @@
 
 # Octave and Unison - harmonic
 
+![](https://github.com/user-attachments/assets/1ee6c8a9-9a04-4555-88ea-b26cccc427d9)
+
 In music theory when you play two notes separately in time, one after the other, it is called a melodic interval.
 
 When you play two notes at the same time - this is a harmonic interval.
@@ -53,8 +55,5 @@ We will have one of the three options:
 Try to guess which option is playing!
 
 Previous lesson: stolbitsa.com/fistachka/t-octaves
-
-![](https://github.com/user-attachments/assets/1ee6c8a9-9a04-4555-88ea-b26cccc427d9)
-
 <br><br>
 
