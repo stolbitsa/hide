@@ -53,5 +53,8 @@ We will have one of the three options:
 Try to guess which option is playing!
 
 Previous lesson: stolbitsa.com/fistachka/t-octaves
+
+![](https://github.com/user-attachments/assets/1ee6c8a9-9a04-4555-88ea-b26cccc427d9)
+
 <br><br>
 
