@@ -58,3 +58,6 @@ Previous lesson: stolbitsa.com/fistachka/t-octaves
 <br><br>
 
 <img width="512" height="512" alt="stolbitsa-logo-white" src="https://github.com/user-attachments/assets/8c8af438-1892-4018-a21b-03386f2273ca" />
+
+<img width="356" height="602" alt="all-with-numbers" src="https://github.com/user-attachments/assets/3aeb0e3c-dad3-4567-9a70-8dbef559b194" />
+
