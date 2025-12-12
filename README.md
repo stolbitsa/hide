@@ -62,5 +62,6 @@ Previous lesson: stolbitsa.com/fistachka/t-octaves
 
 <img width="798" height="658" alt="chromatic-major-minor" src="https://github.com/user-attachments/assets/3dd29561-d437-4274-bcaf-edd212d9242d" />
 
+<img width="798" height="658" alt="chromatic-major-minor" src="https://github.com/user-attachments/assets/7af50754-1e58-4893-adc4-97c9c5a8a209" />
 
 
