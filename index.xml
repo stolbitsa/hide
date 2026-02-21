@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>hide</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
     <ru>6ca5c639b96eb40ddc58cdc107624b5ffb1138b4634c30193e553ef5e5d6dfb2</ru>
@@ -127,6 +127,34 @@
       <note number="10" values="69" ticks="0" durationTicks="197" ppq="96" velocity="0.913"/>
       <note number="11" values="7" ticks="0" durationTicks="199" ppq="96" velocity="0.913"/>
       <note number="12" values="79" ticks="0" durationTicks="193" ppq="96" velocity="0.913"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>major</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
+    <notes>
+      <note number="1" values="1" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
+      <note number="2" values="2" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
+      <note number="3" values="4" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
+      <note number="4" values="5" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
+      <note number="5" values="18" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>minor</scale>
+    <bpm>80</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
+    <notes>
+      <note number="1" values="1" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
+      <note number="2" values="2" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
+      <note number="3" values="4" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
+      <note number="4" values="5" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
+      <note number="5" values="18" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
 </level>
