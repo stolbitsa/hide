@@ -57,3 +57,6 @@ Try to guess which option is playing!
 Previous lesson: stolbitsa.com/fistachka/t-octaves
 <br><br>
 
+<img width="798" height="658" alt="major-minor-1245" src="https://github.com/user-attachments/assets/f8782053-bf53-4214-a247-96f03f3aa526" />
+
+
