@@ -58,6 +58,6 @@ Previous lesson: stolbitsa.com/fistachka/t-octaves
 <br><br>
 
 
-<img width="798" height="658" alt="nt-chromatic-major-minor" src="https://github.com/user-attachments/assets/2882d542-679f-4245-b6dc-8dad6bc6499c" />
 
+<img width="798" height="658" alt="nt-major-minor" src="https://github.com/user-attachments/assets/f03b0667-0a48-41f5-b9f8-6e471e286624" />
 
