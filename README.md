@@ -58,6 +58,9 @@ Previous lesson: stolbitsa.com/fistachka/t-octaves
 <br><br>
 
 
+![diff-levels](https://github.com/user-attachments/assets/e8e644c3-f5c5-4ca7-ac13-c8d0e20de7a7)
+
+
 
 <img width="798" height="658" alt="nt-major-minor" src="https://github.com/user-attachments/assets/f03b0667-0a48-41f5-b9f8-6e471e286624" />
 
