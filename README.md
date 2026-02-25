@@ -1,5 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 <img width="798" height="658" alt="nt-major-minor-367" src="https://github.com/user-attachments/assets/4ffc1569-dfc1-4539-8670-831924bba620" />
+<img width="798" height="658" alt="nt-major-minor-1245" src="https://github.com/user-attachments/assets/f311babe-2a26-43d0-b3ed-e5ef2d9e42dc" />
+
 
 # Октава и Унисон - гармонический вариант
 ![stage2](https://github.com/user-attachments/assets/ab7c4a1e-c575-4889-8403-8d091f5859c4)
