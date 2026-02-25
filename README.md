@@ -1,3 +1,6 @@
+
+<img width="798" height="658" alt="nt-major-minor-1245" src="https://github.com/user-attachments/assets/a3e843f2-f7ad-46dc-9b33-6966f635c568" />
+
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 # Октава и Унисон - гармонический вариант
