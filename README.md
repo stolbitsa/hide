@@ -5,6 +5,9 @@
 <img width="798" height="658" alt="nt-major-minor-367" src="https://github.com/user-attachments/assets/a1ced6ff-3689-442f-b4f8-b31f84f9378d" />
 <img width="798" height="658" alt="nt-chromatic-major-minor-2b-5b" src="https://github.com/user-attachments/assets/01e6feef-7f64-4e01-92fc-13caac70863d" />
 
+![avatar-click-ru](https://github.com/user-attachments/assets/e0aa9b45-ac35-421e-be67-0a134d5fa693)
+![avatar-click-en](https://github.com/user-attachments/assets/9adc30e1-cc88-4698-bb42-11a77dbd3f66)
+
 
 # Октава и Унисон - гармонический вариант
 ![stage2](https://github.com/user-attachments/assets/ab7c4a1e-c575-4889-8403-8d091f5859c4)
