@@ -3,6 +3,7 @@
 <img width="798" height="658" alt="nt-major-minor-1245" src="https://github.com/user-attachments/assets/f311babe-2a26-43d0-b3ed-e5ef2d9e42dc" />
 <img width="798" height="658" alt="nt-minor-major-367" src="https://github.com/user-attachments/assets/ede104aa-58e1-4301-a4ac-d02eee375187" />
 <img width="798" height="658" alt="nt-major-minor-367" src="https://github.com/user-attachments/assets/a1ced6ff-3689-442f-b4f8-b31f84f9378d" />
+<img width="798" height="658" alt="nt-chromatic-major-minor-2b-5b" src="https://github.com/user-attachments/assets/01e6feef-7f64-4e01-92fc-13caac70863d" />
 
 
 # Октава и Унисон - гармонический вариант
