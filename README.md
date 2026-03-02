@@ -9,6 +9,7 @@
 
 
 ![levels](https://github.com/user-attachments/assets/099eb23f-49d7-48c1-8be3-f60ffb8fdda7)
+![levels-en](https://github.com/user-attachments/assets/109921c0-54b5-414f-8e64-0067739298a2)
 
 <img width="798" height="658" alt="nt-major-minor-367" src="https://github.com/user-attachments/assets/4ffc1569-dfc1-4539-8670-831924bba620" />
 <img width="798" height="658" alt="nt-major-minor-1245" src="https://github.com/user-attachments/assets/f311babe-2a26-43d0-b3ed-e5ef2d9e42dc" />
