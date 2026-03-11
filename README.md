@@ -1,5 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
+![calendar-ru](https://github.com/user-attachments/assets/f69a0588-39db-476d-b527-1c5f46be56a3)
+![calendar-en](https://github.com/user-attachments/assets/5ef65f86-c1c6-4501-821a-2d6ad38b5174)
 
 
 
