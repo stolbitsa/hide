@@ -1,8 +1,9 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
-
+![](https://github.com/user-attachments/assets/a866d57a-09cc-4ec6-85d1-383da6f7f177)
 ![](https://github.com/user-attachments/assets/b61aab59-678b-48f4-aadb-3194ef34704f)
+
 
 
 
