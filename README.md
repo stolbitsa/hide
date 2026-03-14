@@ -1,28 +1,9 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![calendar-ru](https://github.com/user-attachments/assets/f69a0588-39db-476d-b527-1c5f46be56a3)
-![calendar-en](https://github.com/user-attachments/assets/5ef65f86-c1c6-4501-821a-2d6ad38b5174)
 
 
 
 
-
-
-
-
-![levels](https://github.com/user-attachments/assets/099eb23f-49d7-48c1-8be3-f60ffb8fdda7)
-![levels-en](https://github.com/user-attachments/assets/109921c0-54b5-414f-8e64-0067739298a2)
-
-<img width="798" height="658" alt="nt-major-minor-367" src="https://github.com/user-attachments/assets/4ffc1569-dfc1-4539-8670-831924bba620" />
-<img width="798" height="658" alt="nt-major-minor-1245" src="https://github.com/user-attachments/assets/f311babe-2a26-43d0-b3ed-e5ef2d9e42dc" />
-<img width="798" height="658" alt="nt-minor-major-367" src="https://github.com/user-attachments/assets/ede104aa-58e1-4301-a4ac-d02eee375187" />
-<img width="798" height="658" alt="nt-major-minor-367" src="https://github.com/user-attachments/assets/a1ced6ff-3689-442f-b4f8-b31f84f9378d" />
-<img width="798" height="658" alt="nt-chromatic-major-minor-2b-5b" src="https://github.com/user-attachments/assets/01e6feef-7f64-4e01-92fc-13caac70863d" />
-<img width="798" height="658" alt="nt-chromatic-major-minor-2b-5b" src="https://github.com/user-attachments/assets/c4d4bbcd-4926-40fc-a703-2be534d7a06d" />
-
-
-![avatar-click-ru](https://github.com/user-attachments/assets/e0aa9b45-ac35-421e-be67-0a134d5fa693)
-![avatar-click-en](https://github.com/user-attachments/assets/9adc30e1-cc88-4698-bb42-11a77dbd3f66)
 
 
 # Октава и Унисон - гармонический вариант
