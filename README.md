@@ -1,8 +1,19 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
-![](https://github.com/user-attachments/assets/a866d57a-09cc-4ec6-85d1-383da6f7f177)
-![](https://github.com/user-attachments/assets/b61aab59-678b-48f4-aadb-3194ef34704f)
+![](https://github.com/user-attachments/assets/08d7429f-f73c-4402-adaf-b77a47488b93)
+![](https://github.com/user-attachments/assets/6e29da08-6daf-4e2b-a3d1-2889f78e1136)
+![](https://github.com/user-attachments/assets/ff1fe86b-0b7a-4dfb-8fab-8dccb90a0e3a)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![](https://github.com/user-attachments/assets/)
 
 
 
