@@ -1,9 +1,16 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+![lesson-head-1](https://github.com/user-attachments/assets/c3314e12-faac-419a-9913-b6ebb3691d55)
 
 
-![](https://github.com/user-attachments/assets/08d7429f-f73c-4402-adaf-b77a47488b93)
-![](https://github.com/user-attachments/assets/6e29da08-6daf-4e2b-a3d1-2889f78e1136)
-![](https://github.com/user-attachments/assets/ff1fe86b-0b7a-4dfb-8fab-8dccb90a0e3a)
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 ![]()
 ![]()
 ![]()
