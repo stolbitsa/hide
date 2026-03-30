@@ -1,8 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![lesson-head-1-crop](https://github.com/user-attachments/assets/a27103e4-b249-4c2a-8b2c-129eea99a6b6)
-![lesson-head-2-crop](https://github.com/user-attachments/assets/749b49eb-6082-42e6-8786-34c9d5174c38)
-![lesson-head-3-crop](https://github.com/user-attachments/assets/fa831fb2-50d2-4d7f-8e22-16b5f60054c5)
+![user-menu-ru](https://github.com/user-attachments/assets/97f42078-987c-40f1-8e1d-edc56d0b6491)
+![user-menu-en](https://github.com/user-attachments/assets/9670bb40-30ff-44ae-9c48-b62233c98b15)
 
 
 ![]()
