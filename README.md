@@ -3,6 +3,8 @@
 ![user-menu-ru](https://github.com/user-attachments/assets/69ef393f-253c-4587-a343-7a3a0b8eb5c6)
 ![user-menu-en](https://github.com/user-attachments/assets/b320775c-4093-4272-8020-260ba9d28190)
 
+![user-channel-en](https://github.com/user-attachments/assets/dd993e29-39f2-44d2-ac7d-32f9933224d4)
+![user-channel-ru](https://github.com/user-attachments/assets/72e6e8df-3c71-42b9-88e6-a395582a00a9)
 
 
 ![]()
