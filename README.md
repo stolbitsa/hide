@@ -1,3 +1,5 @@
+<img width="392" height="208" alt="notation-1" src="https://github.com/user-attachments/assets/bdfd05a9-ec1e-4016-ba97-1f2a90a8e130" />
+
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 ![](https://github.com/user-attachments/assets/6d5385d1-3fb4-45f4-a96e-55495d654ea0)
