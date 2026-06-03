@@ -1,14 +1,8 @@
-<img width="392" height="208" alt="notation-1" src="https://github.com/user-attachments/assets/bdfd05a9-ec1e-4016-ba97-1f2a90a8e130" />
-
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![](https://github.com/user-attachments/assets/6d5385d1-3fb4-45f4-a96e-55495d654ea0)
 
-![user-menu-ru](https://github.com/user-attachments/assets/69ef393f-253c-4587-a343-7a3a0b8eb5c6)
-![user-menu-en](https://github.com/user-attachments/assets/b320775c-4093-4272-8020-260ba9d28190)
+<img width="478" height="248" alt="notation-2" src="https://github.com/user-attachments/assets/43961fa8-e859-4982-88fd-0948776adb1f" />
 
-![user-channel-en](https://github.com/user-attachments/assets/dd993e29-39f2-44d2-ac7d-32f9933224d4)
-![user-channel-ru](https://github.com/user-attachments/assets/72e6e8df-3c71-42b9-88e6-a395582a00a9)
 
 
 ![]()
