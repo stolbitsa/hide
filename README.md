@@ -1,7 +1,9 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
-<img width="478" height="248" alt="notation-2" src="https://github.com/user-attachments/assets/43961fa8-e859-4982-88fd-0948776adb1f" />
+
+<img width="478" height="236" alt="notation-3" src="https://github.com/user-attachments/assets/9a445a30-f3a1-4ef5-a068-c5b4768dc13b" />
+
 
 
 
