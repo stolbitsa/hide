@@ -2,7 +2,7 @@
 
 
 
-<img width="478" height="236" alt="notation-3" src="https://github.com/user-attachments/assets/9a445a30-f3a1-4ef5-a068-c5b4768dc13b" />
+<img width="478" height="241" alt="notation-4" src="https://github.com/user-attachments/assets/0d82fc6e-0238-41bb-98ae-a770b687858c" />
 
 
 
