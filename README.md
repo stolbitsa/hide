@@ -2,7 +2,12 @@
 
 
 
-<img width="478" height="241" alt="notation-4" src="https://github.com/user-attachments/assets/0d82fc6e-0238-41bb-98ae-a770b687858c" />
+
+
+
+<img width="1050" height="480" alt="d4" src="https://github.com/user-attachments/assets/113b6aa5-cf67-4e0f-99dc-2795110b0e6a" />
+
+
 
 
 
