@@ -1,3 +1,4 @@
+<img width="418" height="480" alt="d4-sm" src="https://github.com/user-attachments/assets/c55381b5-9142-429a-9b31-b40fbc1b0d20" />
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
