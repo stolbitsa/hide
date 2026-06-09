@@ -1,4 +1,3 @@
-<img width="418" height="480" alt="d4-sm" src="https://github.com/user-attachments/assets/c55381b5-9142-429a-9b31-b40fbc1b0d20" />
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
@@ -7,8 +6,10 @@
 
 
 
-<img width="1050" height="480" alt="d6" src="https://github.com/user-attachments/assets/d98ee0b4-f9f1-411a-90bd-56878a902b1f" />
-<img width="1050" height="480" alt="f6" src="https://github.com/user-attachments/assets/11bc537f-b1a2-4e08-bcef-26f4ec7fbedc" />
+
+<img width="557" height="480" alt="d6-sm" src="https://github.com/user-attachments/assets/e36e6e06-9089-4d2a-b252-087f8dd884bf" />
+<img width="618" height="480" alt="f6-sm" src="https://github.com/user-attachments/assets/282536e1-811a-4ec4-b79b-67768681c67c" />
+
 
 
 
