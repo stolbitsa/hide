@@ -7,7 +7,8 @@
 
 
 
-<img width="320" height="100" alt="notation-1" src="https://github.com/user-attachments/assets/21ebffb5-4718-43e9-a518-f53245e4815a" />
+<img width="320" height="100" alt="notation-2" src="https://github.com/user-attachments/assets/0d883a9a-9d81-4598-9c61-9c39c8e81811" />
+<img width="320" height="100" alt="notation-3" src="https://github.com/user-attachments/assets/ed195b66-fd9b-47a4-b17a-e5dda27525dd" />
 
 
 
