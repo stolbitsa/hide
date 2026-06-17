@@ -7,8 +7,12 @@
 
 
 
-<img width="320" height="100" alt="notation-2" src="https://github.com/user-attachments/assets/0d883a9a-9d81-4598-9c61-9c39c8e81811" />
-<img width="320" height="100" alt="notation-3" src="https://github.com/user-attachments/assets/ed195b66-fd9b-47a4-b17a-e5dda27525dd" />
+
+<img width="1050" height="480" alt="c7" src="https://github.com/user-attachments/assets/160d9279-45bb-4f3b-8ce3-ccafa8aa84a9" />
+<img width="692" height="476" alt="c7-sm" src="https://github.com/user-attachments/assets/98012e43-639a-4483-831b-9dafd7a81e93" />
+
+
+
 
 
 
