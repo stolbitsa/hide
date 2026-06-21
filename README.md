@@ -5,14 +5,15 @@
 
 
 
-<img width="320" height="100" alt="notation-4" src="https://github.com/user-attachments/assets/022836ab-af5f-46a8-9d91-d8eab4b3aa52" />
-<img width="320" height="100" alt="notation-5" src="https://github.com/user-attachments/assets/a41b3c40-f2e6-4baf-a3f5-71aeae7fc946" />
 
-<img width="1050" height="480" alt="F-dur" src="https://github.com/user-attachments/assets/96172003-ae79-4ed0-9323-7ac9bb2a5c69" />
-<img width="351" height="480" alt="F-dur-sm" src="https://github.com/user-attachments/assets/4f32fe65-3362-4bbc-b025-4a5bf7c6f034" />
 
-<img width="1050" height="480" alt="f-moll" src="https://github.com/user-attachments/assets/8fc78e5c-03b5-4d89-834f-ad2c20652674" />
-<img width="350" height="480" alt="f-moll-sm" src="https://github.com/user-attachments/assets/4fb9f3ec-cbe1-4264-8df6-f1d22e289d59" />
+
+
+
+
+
+<img width="320" height="100" alt="notation-6" src="https://github.com/user-attachments/assets/082f6937-e038-4ab2-8b22-5b940f17ac61" />
+<img width="320" height="100" alt="notation-7" src="https://github.com/user-attachments/assets/6e3b2be4-b04e-4cca-830e-d2992a7b7491" />
 
 
 
