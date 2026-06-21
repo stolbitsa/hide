@@ -12,8 +12,9 @@
 
 
 
-<img width="320" height="100" alt="notation-6" src="https://github.com/user-attachments/assets/082f6937-e038-4ab2-8b22-5b940f17ac61" />
-<img width="320" height="100" alt="notation-7" src="https://github.com/user-attachments/assets/6e3b2be4-b04e-4cca-830e-d2992a7b7491" />
+
+<img width="1573" height="820" alt="range" src="https://github.com/user-attachments/assets/1f754f8d-eea8-4f50-b433-62c89bf57441" />
+<img width="1165" height="820" alt="range-sm" src="https://github.com/user-attachments/assets/a1d81a00-fdef-4f35-ab7a-780b51782f95" />
 
 
 
