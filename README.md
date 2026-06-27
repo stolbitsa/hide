@@ -13,8 +13,10 @@
 
 
 
-<img width="1573" height="820" alt="range" src="https://github.com/user-attachments/assets/1f754f8d-eea8-4f50-b433-62c89bf57441" />
-<img width="1165" height="820" alt="range-sm" src="https://github.com/user-attachments/assets/a1d81a00-fdef-4f35-ab7a-780b51782f95" />
+
+
+
+<img width="320" height="346" alt="final-1" src="https://github.com/user-attachments/assets/7985d339-1b91-4f22-83ee-eb63f2bd46ee" />
 
 
 
