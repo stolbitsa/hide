@@ -14,9 +14,8 @@
 
 
 
-
+<img width="337" height="453" alt="user-channel-tbl-ru" src="https://github.com/user-attachments/assets/bc876c9d-e3f6-43ed-bbd7-6f81dc055f0a" />
 <img width="320" height="265" alt="final-screen-0" src="https://github.com/user-attachments/assets/44ce3bf5-58de-4789-9d21-2a2117eb8ad6" />
-
 <img width="320" height="266" alt="final-screen-1" src="https://github.com/user-attachments/assets/79e88dff-c9ef-4e39-9a10-b20d64ebe7b8" />
 <img width="320" height="265" alt="final-scr-2" src="https://github.com/user-attachments/assets/8a99b971-b054-4948-a507-580d288f2008" />
 <img width="320" height="258" alt="final-scr-3" src="https://github.com/user-attachments/assets/2c053aa3-6c36-4680-b591-dc93763a4e6e" />
