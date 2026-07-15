@@ -23,9 +23,14 @@
 
 
 
-<img width="716" height="358" alt="lesson-header-big" src="https://github.com/user-attachments/assets/82357053-7d38-4678-9fba-b81f34e764ac" />
-<img width="366" height="411" alt="lesson-header-small" src="https://github.com/user-attachments/assets/da0c29ad-c42d-40bc-a814-2eb87052a723" />
 
+
+
+
+
+
+
+<img width="400" height="627" alt="note-of-gratitude" src="https://github.com/user-attachments/assets/bdd7da59-89c1-4869-810b-f80468f778a8" />
 
 
 
