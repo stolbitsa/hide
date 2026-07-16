@@ -12,6 +12,8 @@
 
 
 
+<img width="659" height="344" alt="lesson-head-level-big" src="https://github.com/user-attachments/assets/93931be1-f97b-488d-a503-23f5972235b6" />
+<img width="356" height="409" alt="lesson-head-level-small" src="https://github.com/user-attachments/assets/631c1270-0270-4057-89b4-4ac3e6fff16d" />
 
 
 
@@ -28,7 +30,15 @@
 
 
 
-<img width="356" height="561" alt="levels-order-1" src="https://github.com/user-attachments/assets/121e7db0-59bf-4608-82f5-b85d093a4675" />
+
+
+
+
+
+
+
+
+
 
 
 
