@@ -11,10 +11,7 @@
 
 
 
-
-<img width="659" height="344" alt="lesson-head-level-big" src="https://github.com/user-attachments/assets/93931be1-f97b-488d-a503-23f5972235b6" />
-<img width="356" height="409" alt="lesson-head-level-small" src="https://github.com/user-attachments/assets/631c1270-0270-4057-89b4-4ac3e6fff16d" />
-
+<img width="356" height="557" alt="tonic-1" src="https://github.com/user-attachments/assets/de02d38f-032a-49af-92c4-bfff7da73378" />
 
 
 
