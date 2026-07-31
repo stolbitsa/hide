@@ -11,7 +11,6 @@
 
 
 
-<img width="356" height="557" alt="tonic-1" src="https://github.com/user-attachments/assets/de02d38f-032a-49af-92c4-bfff7da73378" />
 
 
 
@@ -19,6 +18,11 @@
 
 
 
+
+
+
+<img width="593" height="583" alt="intervals-up-mob" src="https://github.com/user-attachments/assets/62396c17-29d7-4520-9280-5369867d82dc" />
+<img width="730" height="602" alt="intervals-up" src="https://github.com/user-attachments/assets/54e6274e-892d-44c4-9b02-abf514e9763a" />
 
 
 
