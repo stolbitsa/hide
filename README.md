@@ -21,10 +21,18 @@
 
 
 
-<img width="593" height="583" alt="intervals-up-mob" src="https://github.com/user-attachments/assets/62396c17-29d7-4520-9280-5369867d82dc" />
-<img width="730" height="602" alt="intervals-up" src="https://github.com/user-attachments/assets/54e6274e-892d-44c4-9b02-abf514e9763a" />
 
 
+
+
+
+
+
+
+
+
+
+<img width="412" height="583" alt="intvl-prima-octave" src="https://github.com/user-attachments/assets/d0f1952b-8151-47af-82b3-9e51d68cbae4" />
 
 
 
