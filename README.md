@@ -29,10 +29,8 @@
 
 
 
+<img width="412" height="583" alt="intvl-prima-octave" src="https://github.com/user-attachments/assets/a5568e6a-81b7-48a3-ba69-6a04ed07d2f9" />
 
-
-
-<img width="412" height="583" alt="intvl-prima-octave" src="https://github.com/user-attachments/assets/d0f1952b-8151-47af-82b3-9e51d68cbae4" />
 
 
 
