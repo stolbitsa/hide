@@ -29,7 +29,7 @@
 
 
 
-<img width="412" height="583" alt="intvl-prima-octave" src="https://github.com/user-attachments/assets/a5568e6a-81b7-48a3-ba69-6a04ed07d2f9" />
+<img width="320" height="265" alt="final-screen-en-0" src="https://github.com/user-attachments/assets/d0ecf415-290b-4de3-bde5-eb3402c0b621" />
 
 
 
