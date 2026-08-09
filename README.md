@@ -28,6 +28,9 @@
 
 
 
+<img width="320" height="265" alt="final-screen-en-0" src="https://github.com/user-attachments/assets/56fe6f4e-1dee-4647-ab39-e4c95591defe" />
+
+
 
 <img width="320" height="265" alt="final-screen-en-0" src="https://github.com/user-attachments/assets/d0ecf415-290b-4de3-bde5-eb3402c0b621" />
 
