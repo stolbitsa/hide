@@ -26,13 +26,10 @@
 
 
 
-
-<img width="320" height="258" alt="final-screen-en-3" src="https://github.com/user-attachments/assets/80cf5b14-8ea5-4256-8625-766e66d98417" />
-<img width="320" height="265" alt="final-screen-en-2" src="https://github.com/user-attachments/assets/769d5be0-8c58-485f-bfaf-53c653e4e6f1" />
-<img width="320" height="265" alt="final-screen-en-1" src="https://github.com/user-attachments/assets/4f9fdce9-eec6-49b1-99a2-2475bac255c3" />
-
-
-
+<img width="366" height="411" alt="lh-user-rating-ru-small" src="https://github.com/user-attachments/assets/b189527b-07d8-4937-86c7-13f0347c1dc4" />
+<img width="716" height="358" alt="lh-user-rating-ru-big" src="https://github.com/user-attachments/assets/6a265c28-40a7-415f-98bc-798d62363103" />
+<img width="742" height="352" alt="lesson-header-en-big" src="https://github.com/user-attachments/assets/f307b2a3-114e-4bde-8b1a-7bd1f3e7b94c" />
+<img width="338" height="408" alt="lesson-header-en-small" src="https://github.com/user-attachments/assets/bd4a1edf-9a8a-4cd8-9388-fdf51e2d9cab" />
 
 
 
