@@ -38,7 +38,7 @@
 
 
 
-<img width="327" height="442" alt="uc-silver-notes-en" src="https://github.com/user-attachments/assets/8e3a9c8a-1bd2-4167-9e24-14939aff2296" />
+<img width="372" height="949" alt="user-channel-ru" src="https://github.com/user-attachments/assets/c54e6e20-6792-48e9-9f1f-b60cb5c4d8b4" />
 
 
 
