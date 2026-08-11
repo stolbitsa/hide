@@ -36,7 +36,10 @@
 
 
 
-<img width="325" height="440" alt="uc-silver-notes-en" src="https://github.com/user-attachments/assets/319f6dba-9a1a-4739-ad59-9c9785404f39" />
+
+
+<img width="327" height="442" alt="uc-silver-notes-en" src="https://github.com/user-attachments/assets/8e3a9c8a-1bd2-4167-9e24-14939aff2296" />
+
 
 
 
