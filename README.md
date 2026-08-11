@@ -33,14 +33,15 @@
 
 
 
-<img width="335" height="612" alt="user-menu-ru" src="https://github.com/user-attachments/assets/dc53ffea-53eb-4cca-b598-3a8c6f852c9b" />
-<img width="337" height="605" alt="user-menu-en" src="https://github.com/user-attachments/assets/71c868f2-5cff-49fb-b2ea-1f6d250ee09d" />
 
 
 
 
 
-<img width="372" height="949" alt="user-channel-ru" src="https://github.com/user-attachments/assets/c54e6e20-6792-48e9-9f1f-b60cb5c4d8b4" />
+
+
+
+<img width="371" height="933" alt="user-channel-en" src="https://github.com/user-attachments/assets/762af516-a6a0-4eec-ab08-8e46e48e7006" />
 
 
 
