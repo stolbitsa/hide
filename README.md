@@ -43,6 +43,10 @@
 <img width="371" height="143" alt="lv-top-ru" src="https://github.com/user-attachments/assets/78628ba5-299b-49ef-a838-6eed5487497a" />
 
 
+<img width="368" height="143" alt="lv-top-en" src="https://github.com/user-attachments/assets/fb53e2a9-40ca-4235-8872-a676263256d5" />
+
+
+
 
 
 
