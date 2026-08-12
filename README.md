@@ -40,11 +40,7 @@
 
 
 
-<img width="371" height="698" alt="level-view-ru" src="https://github.com/user-attachments/assets/39beee82-4721-4de7-a37d-68f022d08743" />
-<img width="368" height="716" alt="level-view-en" src="https://github.com/user-attachments/assets/4f702d5b-ada4-4350-b8f1-0d0b7d69d8f2" />
-<img width="768" height="697" alt="level-view-big-ru" src="https://github.com/user-attachments/assets/384b6b13-d85b-4bbe-a086-08ecb75bdfc9" />
-<img width="766" height="700" alt="level-view-big-en" src="https://github.com/user-attachments/assets/5c96bf00-5145-44fb-b91b-0fab3de03f37" />
-
+<img width="371" height="143" alt="lv-top-ru" src="https://github.com/user-attachments/assets/78628ba5-299b-49ef-a838-6eed5487497a" />
 
 
 
