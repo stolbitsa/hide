@@ -40,10 +40,8 @@
 
 
 
-<img width="371" height="143" alt="lv-top-ru" src="https://github.com/user-attachments/assets/78628ba5-299b-49ef-a838-6eed5487497a" />
-
-
-<img width="368" height="143" alt="lv-top-en" src="https://github.com/user-attachments/assets/fb53e2a9-40ca-4235-8872-a676263256d5" />
+<img width="371" height="202" alt="lv-middle-ru" src="https://github.com/user-attachments/assets/3ee15809-aab2-4ca2-9172-afc612ecd3a4" />
+<img width="368" height="202" alt="lv-middle-en" src="https://github.com/user-attachments/assets/0fcc431e-7a49-4e84-99bd-83ba28b6a95a" />
 
 
 
