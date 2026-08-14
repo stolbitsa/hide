@@ -37,8 +37,8 @@
 
 
 
-<img width="371" height="146" alt="lv-bottom-ru" src="https://github.com/user-attachments/assets/9f182691-0d4e-40a4-af52-63e1f9cd98e0" />
-<img width="368" height="148" alt="lv-bottom-en" src="https://github.com/user-attachments/assets/e879634d-e8c2-4fe8-9ac5-4e94d6c2767a" />
+<img width="721" height="358" alt="lh-level-en-big" src="https://github.com/user-attachments/assets/3812f048-6e96-4d52-bdd0-cb06de321db9" />
+<img width="350" height="408" alt="lh-level-en-small" src="https://github.com/user-attachments/assets/7e177151-9808-4a7c-9727-a0f24ee94463" />
 
 
 
