@@ -35,10 +35,8 @@
 
 
 
-
-<img width="760" height="583" alt="intvl-prima" src="https://github.com/user-attachments/assets/4904245e-c0af-4ef9-8d98-ed4f13fb2925" />
-<img width="760" height="583" alt="intvl-octave" src="https://github.com/user-attachments/assets/606409e1-30f4-4043-8034-b9e2eca63bbb" />
-
+<img width="760" height="583" alt="intvl-octave" src="https://github.com/user-attachments/assets/21c1f324-3f9d-4a61-934f-ae686414a22b" />
+<img width="760" height="583" alt="intvl-prima" src="https://github.com/user-attachments/assets/532bdfd2-5d0e-4e83-9feb-4131bef3c111" />
 
 
 
