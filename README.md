@@ -30,7 +30,8 @@
 
 
 
-<img width="760" height="583" alt="intvl-prima-up" src="https://github.com/user-attachments/assets/18692daf-9555-4ae8-b633-e3226815c4a7" />
+<img width="742" height="352" alt="lh-en-big" src="https://github.com/user-attachments/assets/b0f7aba8-2f84-4002-a065-5f8060057c41" />
+<img width="338" height="408" alt="lh-en-small" src="https://github.com/user-attachments/assets/e506dcf7-8e21-4814-b8fb-a8a3bd627959" />
 
 
 
