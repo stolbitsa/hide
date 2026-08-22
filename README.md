@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image 22 авг  2026 г , 19_21_21(1)" src="https://github.com/user-attachments/assets/059d1761-9804-489d-9f5f-b0af2c9fd725" />
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
