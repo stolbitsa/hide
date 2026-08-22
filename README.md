@@ -30,10 +30,7 @@
 
 
 
-<img width="742" height="352" alt="lh-en-big" src="https://github.com/user-attachments/assets/b0f7aba8-2f84-4002-a065-5f8060057c41" />
-<img width="338" height="408" alt="lh-en-small" src="https://github.com/user-attachments/assets/e506dcf7-8e21-4814-b8fb-a8a3bd627959" />
-<img width="357" height="619" alt="note-of-gratitude-en" src="https://github.com/user-attachments/assets/e4059e6a-b93d-4c15-84f2-1e7fda376fe4" />
-
+<img width="1536" height="1024" alt="ChatGPT Image 22 авг  2026 г , 19_16_141" src="https://github.com/user-attachments/assets/c4f63d48-581d-4ee1-a1d3-10c1152a31ad" />
 
 
 
