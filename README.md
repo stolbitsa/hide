@@ -30,10 +30,12 @@
 
 
 
-<img width="768" height="697" alt="lv-play-big-ru" src="https://github.com/user-attachments/assets/d4405d96-e1c0-4208-966c-8827ad1efc65" />
-<img width="766" height="700" alt="lv-play-big-en" src="https://github.com/user-attachments/assets/722b4d0e-017e-45a4-915f-29ce7be08c57" />
-<img width="371" height="698" alt="lv-play-small-ru" src="https://github.com/user-attachments/assets/6e90d67c-7e60-4e4a-93c0-bd8cc71a8d7b" />
-<img width="368" height="716" alt="lv-play-small-en" src="https://github.com/user-attachments/assets/589c5c22-ddc4-4e11-b70f-424c1f38fb84" />
+
+
+<img width="368" height="530" alt="lv-play-small-en" src="https://github.com/user-attachments/assets/6b6664e9-9176-4b53-9a10-3ab215089529" />
+<img width="371" height="518" alt="lv-play-small-ru" src="https://github.com/user-attachments/assets/fb2c0ed4-ee0b-45a3-a9da-5dcf8dccfda9" />
+<img width="766" height="474" alt="lv-play-big-en" src="https://github.com/user-attachments/assets/34c28df9-e5d9-4527-ba6b-3e419c234e98" />
+<img width="768" height="471" alt="lv-play-big-ru" src="https://github.com/user-attachments/assets/0f90532a-f10a-483b-988b-0da99fb2cc0d" />
 
 
 
