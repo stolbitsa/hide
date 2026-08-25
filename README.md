@@ -32,15 +32,11 @@
 
 
 
-<img width="368" height="530" alt="lv-play-small-en" src="https://github.com/user-attachments/assets/6b6664e9-9176-4b53-9a10-3ab215089529" />
-<img width="371" height="518" alt="lv-play-small-ru" src="https://github.com/user-attachments/assets/fb2c0ed4-ee0b-45a3-a9da-5dcf8dccfda9" />
-
-<img width="766" height="474" alt="lv-play-big-en" src="https://github.com/user-attachments/assets/34c28df9-e5d9-4527-ba6b-3e419c234e98" />
-<img width="768" height="471" alt="lv-play-big-ru" src="https://github.com/user-attachments/assets/0f90532a-f10a-483b-988b-0da99fb2cc0d" />
 
 
 
 
+<img width="1536" height="1024" alt="supertonic1" src="https://github.com/user-attachments/assets/b5bb7936-6e2f-4f97-8d37-b9fca7a61245" />
 
 
 
