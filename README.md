@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="ChatGPT Image 22 авг  2026 г , 19_21_21(1)" src="https://github.com/user-attachments/assets/059d1761-9804-489d-9f5f-b0af2c9fd725" />
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 
@@ -31,7 +30,10 @@
 
 
 
-<img width="1536" height="1024" alt="ChatGPT Image 22 авг  2026 г , 19_16_141" src="https://github.com/user-attachments/assets/c4f63d48-581d-4ee1-a1d3-10c1152a31ad" />
+<img width="768" height="697" alt="lv-play-big-ru" src="https://github.com/user-attachments/assets/d4405d96-e1c0-4208-966c-8827ad1efc65" />
+<img width="766" height="700" alt="lv-play-big-en" src="https://github.com/user-attachments/assets/722b4d0e-017e-45a4-915f-29ce7be08c57" />
+<img width="371" height="698" alt="lv-play-small-ru" src="https://github.com/user-attachments/assets/6e90d67c-7e60-4e4a-93c0-bd8cc71a8d7b" />
+<img width="368" height="716" alt="lv-play-small-en" src="https://github.com/user-attachments/assets/589c5c22-ddc4-4e11-b70f-424c1f38fb84" />
 
 
 
