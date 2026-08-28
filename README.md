@@ -36,7 +36,7 @@
 
 
 
-<img width="1536" height="1024" alt="supertonic1" src="https://github.com/user-attachments/assets/b5bb7936-6e2f-4f97-8d37-b9fca7a61245" />
+<img width="1065" height="770" alt="t7" src="https://github.com/user-attachments/assets/d0714afa-2dd8-4c5a-92a8-120ba9c4ccfa" />
 
 
 
