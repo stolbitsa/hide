@@ -33,7 +33,7 @@
 
 
 
-<img width="1012" height="770" alt="t7c" src="https://github.com/user-attachments/assets/cb825672-ccb6-45aa-b447-0e3e9d1709e9" />
+<img width="1536" height="1024" alt="1sddf" src="https://github.com/user-attachments/assets/8a70e8a5-0d6c-4649-9eb9-22826cd9f0b3" />
 
 
 
