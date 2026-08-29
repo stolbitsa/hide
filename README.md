@@ -32,10 +32,7 @@
 
 
 
-
-<img width="1150" height="583" alt="intvl-unison-1-5-1" src="https://github.com/user-attachments/assets/a0dc6a46-c454-46ec-835a-42d98e4e9cac" />
-
-
+<img width="400" height="583" alt="intvl-octave-harm" src="https://github.com/user-attachments/assets/27eb66cd-dc8a-44b0-89fc-6655f7649798" />
 
 
 
