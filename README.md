@@ -32,8 +32,7 @@
 
 
 
-<img width="400" height="583" alt="intvl-octave-harm" src="https://github.com/user-attachments/assets/27eb66cd-dc8a-44b0-89fc-6655f7649798" />
-
+<img width="1239" height="786" alt="Clipboard_09-02-2026_01f" src="https://github.com/user-attachments/assets/0307dbe9-40cb-4bc6-b5fb-755441335209" />
 
 
 
