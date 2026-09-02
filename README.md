@@ -32,7 +32,7 @@
 
 
 
-<img width="400" height="583" alt="intvl-dominant-below-2-2" src="https://github.com/user-attachments/assets/9d24483c-fa26-4d04-8cf2-411b9b690c16" />
+<img width="400" height="583" alt="intvl-dominant-2-2" src="https://github.com/user-attachments/assets/1ccc8042-c425-4bfa-a90e-b639d8319fbb" />
 
 
 
