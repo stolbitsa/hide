@@ -32,7 +32,7 @@
 
 
 
-<img width="1239" height="786" alt="Clipboard_09-02-2026_01f" src="https://github.com/user-attachments/assets/0307dbe9-40cb-4bc6-b5fb-755441335209" />
+<img width="400" height="583" alt="intvl-dominant-below-2-2" src="https://github.com/user-attachments/assets/bd7c4451-ea54-479b-a09d-38579ec15c46" />
 
 
 
