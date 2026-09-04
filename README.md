@@ -32,7 +32,7 @@
 
 
 
-<img width="352" height="333" alt="tonalities" src="https://github.com/user-attachments/assets/85b5c866-b237-4309-8893-1f54f33d30d0" />
+<img width="700" height="466" alt="Clipboard_09-04-2026_03" src="https://github.com/user-attachments/assets/f222bb00-4d62-491d-af20-4790dbddf029" />
 
 
 
