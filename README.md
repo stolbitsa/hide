@@ -32,7 +32,8 @@
 
 
 
-<img width="400" height="583" alt="intvl-dominant-2-2" src="https://github.com/user-attachments/assets/1ccc8042-c425-4bfa-a90e-b639d8319fbb" />
+<img width="1536" height="1024" alt="Clipboard_09-04-2026_01" src="https://github.com/user-attachments/assets/de48644d-a61c-4908-a66b-2f6c62df551a" />
+<img width="1536" height="1024" alt="Clipboard_09-04-2026_0190" src="https://github.com/user-attachments/assets/773f3a58-f9b7-4c1a-95cc-8cff32e3be98" />
 
 
 
