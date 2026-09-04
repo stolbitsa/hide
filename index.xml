@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>hide</repo>
-  <version>v1.0.12</version>
+  <version>v1.0.13</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
-    <ru>6ca5c639b96eb40ddc58cdc107624b5ffb1138b4634c30193e553ef5e5d6dfb2</ru>
-    <en>0a6cd4c364b5f357844023c4360e1391b2576a87b6374ec61b81c50169d0d660</en>
+    <ru>4da9fc1610b4f5249a7af57dad219ac06831d81a38f7fbc23b8ae932accc68fb</ru>
+    <en>a3b7caa51bc1bc617be14e2d2f226137864f9b321ac0c03481fe1b3fcabca08f</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -113,7 +113,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
       <note number="2" values="19" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
