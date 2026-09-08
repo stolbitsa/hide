@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>hide</repo>
-  <version>v1.0.14</version>
+  <version>v1.0.15</version>
   <next number="1" owner="stolbitsa" repo="subdominant-low-4"/>
   <readme>
     <ru>4da9fc1610b4f5249a7af57dad219ac06831d81a38f7fbc23b8ae932accc68fb</ru>
@@ -140,7 +140,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
     <notes>
       <note number="1" values="1" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
       <note number="2" values="2" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
@@ -154,7 +153,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
     <notes>
       <note number="1" values="3" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
       <note number="2" values="6" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
@@ -166,7 +164,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
     <notes>
       <note number="1" values="3" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
       <note number="2" values="6" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
@@ -178,7 +175,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
     <notes>
       <note number="1" values="92" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
       <note number="2" values="95" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
@@ -189,7 +185,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1</tonalities>
-    <video name="black.mp4" size="3558" type="video/mp4" volume="1">be9dd77a7c93ba2bf7978cf145598570759584e463dcb79dfeaadd6e5f673fe9</video>
     <notes>
       <note number="1" values="19" ticks="0" durationTicks="191" ppq="96" velocity="0.843"/>
       <note number="2" values="49" ticks="0" durationTicks="191" ppq="96" velocity="0.913"/>
