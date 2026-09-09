@@ -34,7 +34,13 @@
 
 <p class="phl"><span class="text-h5 val1">3️⃣ </span> Верхняя <span style="color: rgb(0, 130, 200)" class="text-h6">доминанта</span> — доминанта выше тоники.</p>
 
-<p class="phl q-pb-lg">Цель этого урока — научиться уверенно различать эти три варианта, несмотря на изменение положения нижней ноты. Это важный шаг к свободной ориентации в тональности.</p>
+<p class="phl">Цель этого урока — научиться уверенно различать эти три варианта, несмотря на изменение положения нижней ноты. Это важный шаг к свободной ориентации в тональности.</p>
+
+<p class="phl">
+В этом уроке в качестве фона для упражнений использованы различные видео с медузами.
+</p>
+
+<iframe class=" q-pb-xl" width="315" height="560" src="https://www.youtube.com/embed/Q5aAqQbcbIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <span class="text-h5 val2">⬅️</span> Предыдущий урок:
 ![](https://github.com/user-attachments/assets/f222bb00-4d62-491d-af20-4790dbddf029 =200x200)
@@ -104,7 +110,13 @@ stolbitsa.com/Fistachka/dominant-again
   — the dominant above the tonic.
 </p>
 
-<p class="phl q-pb-lg">The goal of this lesson is to learn to confidently distinguish between these three notes, even though the position of the bottom note has changed. This is an important step toward developing a strong sense of your position within the key.</p>
+<p class="phl">The goal of this lesson is to learn to confidently distinguish between these three notes, even though the position of the bottom note has changed. This is an important step toward developing a strong sense of your position within the key.</p>
+
+<p class="phl">
+In this lesson, various jellyfish videos are used as background visuals for the exercises.
+</p>
+
+<iframe class=" q-pb-xl" width="315" height="560" src="https://www.youtube.com/embed/DKDR7RcFsSI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <span class="text-h5 val2">⬅️</span> Previous lesson: 
 ![](https://github.com/user-attachments/assets/f222bb00-4d62-491d-af20-4790dbddf029 =200x200) 
