@@ -1,3 +1,10 @@
+<img width="360" height="760" alt="play-screen" src="https://github.com/user-attachments/assets/06bc9368-b785-4dd0-a9fe-d7ffb5d599d3" />
+
+
+
+
+
+
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 # <span style="color: rgb(0, 130, 200)" class="text-h4">Доминанта</span> внизу
