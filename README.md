@@ -1,23 +1,13 @@
-
-
-<img width="360" height="61" alt="ps-top-signs-flat" src="https://github.com/user-attachments/assets/df19d47f-c469-4912-a878-21a896048fa5" />
-<img width="360" height="61" alt="ps-top-signs-sharp" src="https://github.com/user-attachments/assets/86c9728c-f6c0-481e-85a5-338eb36a2a46" />
-
-
-
-
-
-<img width="1024" height="576" alt="3t mp4" src="https://github.com/user-attachments/assets/0e109a7e-adc7-4285-8695-75085ffde857" />
-
-
-
-
-
-
-
-
-
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+
+<span class="text-h5 val2">⬅️</span> Предыдущий урок:
+![](https://github.com/user-attachments/assets/f222bb00-4d62-491d-af20-4790dbddf029 =200x200)
+stolbitsa.com/Fistachka/dominant-again
+
+<span class="text-h5 val2">⬅️</span> Предыдущий урок:
+![](https://github.com/user-attachments/assets/f222bb00-4d62-491d-af20-4790dbddf029 =200x200)
+stolbitsa.com/stolbitsa/dominant
+
 
 # <span style="color: rgb(0, 130, 200)" class="text-h4">Доминанта</span> внизу
 
@@ -67,6 +57,15 @@ stolbitsa.com/Fistachka/dominant-again
 <br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
+
+<span class="text-h5 val2">⬅️</span> Предыдущий урок:
+![](https://github.com/user-attachments/assets/f222bb00-4d62-491d-af20-4790dbddf029 =200x200)
+stolbitsa.com/Fistachka/dominant-again
+
+<span class="text-h5 val2">⬅️</span> Предыдущий урок:
+![](https://github.com/user-attachments/assets/f222bb00-4d62-491d-af20-4790dbddf029 =200x200)
+stolbitsa.com/stolbitsa/dominant
+
 
 # <span style="color: rgb(0, 130, 200)" class="text-h4">Dominant</span> at the Bottom
 
